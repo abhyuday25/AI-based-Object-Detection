@@ -5,3 +5,4 @@ evaluates the project's strategic positioning through a comprehensive SWOT analy
 examines financial and human resources, describes the organisational structure, and
 proposes strategic recommendations to ensure long-term sustainability and market
 viability.
+For Lean Startup Managment
